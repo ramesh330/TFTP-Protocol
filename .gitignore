@@ -1,0 +1,9 @@
+# Ignore compiled binaries
+client/tftp_client
+server/tftp_server
+
+# Ignore object files
+*.o
+
+# Ignore editor temp files
+*~
